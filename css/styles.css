@@ -230,6 +230,12 @@ body {
     gap: var(--spacing-sm);
 }
 
+.nav-content {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-2xl);
+}
+
 .nav-menu {
     display: flex;
     gap: var(--spacing-2xl);
