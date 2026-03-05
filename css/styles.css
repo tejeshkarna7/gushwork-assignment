@@ -361,7 +361,7 @@ body {
 }
 
 .gallery-main-img.zoomed {
-    transform: scale(2.2);
+    transform: scale(2.2) !important;
     cursor: zoom-in;
     z-index: 2;
 }
